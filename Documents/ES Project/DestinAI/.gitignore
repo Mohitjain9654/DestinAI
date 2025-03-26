@@ -44,3 +44,5 @@ data/db/
 # Ignore EAS build cache and files
 .eas/
 build/
+Library/Application Support/Code/
+Library/Application Support/Google/
