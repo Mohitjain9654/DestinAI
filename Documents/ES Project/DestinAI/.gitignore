@@ -36,3 +36,11 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Ignore local database files
+data/
+data/db/
+
+# Ignore EAS build cache and files
+.eas/
+build/
